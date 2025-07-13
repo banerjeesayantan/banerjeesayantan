@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Look at me — I'm Sayantan Banerjee<br><br>They said, “Be job-ready.”  <br>I said, “I’m recruiter-ready.” 😎  <br>(One of them literally said, “He’s mine.”🥰)<br><br>- Code wizardry in : "C++ | React | JavaScript | Full Stack" <br>- Build projects that work in production , not just in hope.  <br>- Don’t chase trends —> I solve real problems with clean, scalable code.<br><br>If it runs, it ships.  <br>If it’s boring, I make it fun.<br><br>---<br><br>👀 Let’s connect or collab —> before other claims me.
+👋 Look at me —> I'm Sayantan Banerjee<br><br>They said, “Be job-ready.”  <br>I said, “I’m recruiter-ready.” 😎  <br>(One of them literally said, “He’s mine.”🥰)<br><br>- Code wizardry in : "C++ | React | JavaScript | Full Stack" <br>- Build projects that work in production , not just in hope.  <br>- Don’t chase trends —> I solve real problems with clean, scalable code.<br><br>If it runs, it ships.  <br>If it’s boring, I make it fun.<br><br>---<br><br>👀 Let’s connect or collab —> before other claims me.
 
 
 ## 🌐 Socials:
